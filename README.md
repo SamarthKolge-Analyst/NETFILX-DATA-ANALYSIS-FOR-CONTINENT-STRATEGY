@@ -1,5 +1,9 @@
 # 📊 Netflix Case Study - Data Exploration and Visualization
 
+<p align="center">
+  <img src="Netflix_logo.gif" alt="Netflix Logo" width="450"/>
+</p>
+
 ## 🌟 Project Overview
 
 This project involves performing data exploration and visualization on the Netflix dataset to gain insights that can help Netflix decide what types of shows/movies to produce and how to grow the business in various countries.
